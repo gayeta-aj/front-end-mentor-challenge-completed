@@ -20,8 +20,8 @@ html {
 }
 
 body {
-    background: url('../images/bg-pattern-top.svg') top -600px left -300px no-repeat fixed,
-    url('../images/bg-pattern-bottom.svg') bottom -600px right -200px no-repeat fixed;
+    background: url('images/bg-pattern-top.svg') top -600px left -300px no-repeat fixed,
+    url('images/bg-pattern-bottom.svg') bottom -600px right -200px no-repeat fixed;
     font-size: var(--name-stat-font);
 }
 
@@ -75,7 +75,7 @@ main {
 .card-header {
     border-top-right-radius: 0.5rem;
     border-top-left-radius: 0.5rem;
-    background: url('../images/bg-pattern-card.svg') no-repeat;
+    background: url('images/bg-pattern-card.svg') no-repeat;
     background-position: center;
     background-size: cover;
     height: 8.3rem;
